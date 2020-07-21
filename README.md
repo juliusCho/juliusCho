@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/QKUA2bIAgjFgk/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/3ov9jFA9wmNzHHRgsg/giphy.gif" width="230">
 
 ### 👋 Thank you for visiting my humble github page!
 

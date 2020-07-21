@@ -23,7 +23,7 @@ const julius = {
           serverless: ['AWS Lambda'],
               devOps: ['Jira', 'Confluence']
     }
-}
+};
 ```
 
 ### 📫 Feel free to contact me!

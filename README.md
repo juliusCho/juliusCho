@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/QKUA2bIAgjFgk/giphy.gif" width="230">
 
-### 👋 Thank you for visiting to my humble github page!
+### 👋 Thank you for visiting my humble github page!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjuliusCho)](https://hits.seeyoufarm.com)
 

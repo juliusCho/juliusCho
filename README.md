@@ -1,4 +1,9 @@
-### Hi there 👋
+
+
+### 👋 Thank you for visiting!
+
+[![](https://img.shields.io/badge/LinkedIn-Inhyo(Julius)-blue)](https://www.linkedin.com/in/julius88/)
+[![](https://img.shields.io/badge/Gmail-johncrist2000%40gmail.com-red)](mailto:johncrist2000@gmail.com)
 
 <!--
 **juliusCho/juliusCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

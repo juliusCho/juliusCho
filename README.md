@@ -11,7 +11,7 @@
 const julius = {
 
     knowledge: {
-            frontEnd: ['React', 'Vue', 'Typescript', 'Javascript', 'HTML', 'CSS'],
+            frontEnd: ['Typescript', 'Javascript', 'React', 'Vue', 'HTML', 'CSS'],
              backEnd: ['Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
             database: ['MS-SQL', 'MySQL', 'Oracle'],
               devOps: ['Jenkins']

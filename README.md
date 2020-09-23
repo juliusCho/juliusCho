@@ -11,14 +11,14 @@
 const julius = {
 
     knowledge: {
-            frontEnd: ['Vue', 'Javascript', 'HTML', 'CSS'],
-             backEnd: ['Spring', 'Java', 'Maven', 'MyBatis'],
+            frontEnd: ['React', 'Vue', 'Typescript', 'Javascript', 'HTML', 'CSS'],
+             backEnd: ['Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
             database: ['MS-SQL', 'MySQL', 'Oracle'],
               devOps: ['Jenkins']
     },
     
     learning: {
-            frontEnd: ['React', 'Typescript'],
+            frontEnd: ['React Native'],
              backEnd: ['JPA/Hibernate', 'QueryDSL'],
           serverless: ['AWS Lambda'],
               devOps: ['Jira', 'Confluence']

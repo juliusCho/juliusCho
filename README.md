@@ -11,17 +11,18 @@
 const julius = {
 
     knowledge: {
-            frontEnd: ['Typescript', 'Javascript', 'React', 'Vue', 'HTML', 'CSS'],
+            frontEnd: ['Typescript', 'Javascript', 'React', 'React Native', 'Redux', 'Vue', 'HTML', 'CSS'],
              backEnd: ['Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
             database: ['MS-SQL', 'MySQL', 'Oracle'],
-              devOps: ['Jenkins']
+              devOps: ['Jira', 'Confluence']
     },
     
     learning: {
-            frontEnd: ['React Native'],
-             backEnd: ['JPA/Hibernate', 'QueryDSL'],
+            frontEnd: ['Recoil'],
+             backEnd: ['Koa', 'Express', 'Apollo Server', 'JPA/Hibernate', 'QueryDSL'],
+            database: ['GraphQL'],
           serverless: ['AWS Lambda'],
-              devOps: ['Jira', 'Confluence']
+              devOps: ['Jenkins']
     }
 };
 ```

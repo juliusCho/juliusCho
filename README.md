@@ -20,7 +20,7 @@ const julius = {
     learning: {
             frontEnd: ['Recoil'],
              backEnd: ['Koa', 'Express', 'Apollo Server', 'JPA/Hibernate', 'QueryDSL'],
-            database: ['GraphQL'],
+            database: ['GraphQL', 'MongoDB'],
           serverless: ['AWS Lambda'],
               devOps: ['Jenkins']
     }

@@ -30,7 +30,7 @@ const julius = {
 ### 📫 Feel free to contact me!
 
 [![](https://img.shields.io/badge/LinkedIn-Inhyo(Julius)-blue)](https://www.linkedin.com/in/julius88/)
-[![](https://img.shields.io/badge/Blog-Github-purple)](https://juliuscho.github.io/)
+[![](https://img.shields.io/badge/Blog-JekyllBlog-purple)](https://juliuscho.github.io/)
 [![](https://img.shields.io/badge/Gmail-johncrist2000%40gmail.com-red)](mailto:johncrist2000@gmail.com)
 
 <!--

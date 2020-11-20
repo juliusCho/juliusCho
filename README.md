@@ -11,16 +11,15 @@
 const julius = {
 
     knowledge: {
-            frontEnd: ['Typescript', 'Javascript', 'React', 'React Native', 'Redux', 'Vue', 'HTML', 'CSS'],
-             backEnd: ['Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
-            database: ['MS-SQL', 'MySQL', 'Oracle'],
+            frontEnd: ['Typescript', 'React', 'React Native', 'Redux', 'Recoil', 'Vue', 'HTML', 'CSS'],
+             backEnd: ['Apollo Client', 'Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
+            database: ['GraphQL', 'PostgresQL', 'MS-SQL', 'MySQL', 'Oracle'],
               devOps: ['Jira', 'Confluence']
     },
     
     learning: {
-            frontEnd: ['Recoil'],
+            frontEnd: ['Jest', 'Enzyme'],
              backEnd: ['Koa', 'Express', 'Apollo Server', 'JPA/Hibernate', 'QueryDSL'],
-            database: ['GraphQL', 'MongoDB'],
           serverless: ['AWS Lambda'],
               devOps: ['Jenkins']
     }

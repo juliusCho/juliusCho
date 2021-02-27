@@ -11,7 +11,18 @@
 const julius = {
 
     knowledge: {
-            frontEnd: ['Typescript', 'React', 'React Native', 'Redux', 'Recoil', 'Vue', 'Prettier', 'ESLint', 'Next.js', 'Tailwind CSS'],
+            frontEnd: [
+                        'Typescript', 
+                        'React', 
+                        'React Native', 
+                        'Redux', 
+                        'Recoil',
+                        'Next.js',
+                        'Vue 2', 
+                        'Prettier', 
+                        'ESLint', 
+                        'Tailwind CSS'
+                      ],
              backEnd: ['Apollo Client', 'Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
             database: ['GraphQL', 'PostgresQL', 'MS-SQL', 'MySQL', 'Oracle'],
               devOps: ['Jira', 'Confluence']
@@ -19,9 +30,8 @@ const julius = {
     
     learning: {
             frontEnd: ['Jest', 'Enzyme'],
-             backEnd: ['Koa', 'Express', 'Apollo Server', 'JPA/Hibernate', 'QueryDSL'],
-          serverless: ['AWS Lambda'],
-              devOps: ['Jenkins']
+             backEnd: ['Koa', 'Express', 'Apollo Server', 'QueryDSL'],
+              devOps: ['Docker', 'Jenkins']
     }
 };
 ```

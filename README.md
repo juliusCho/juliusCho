@@ -11,7 +11,7 @@
 const julius = {
 
     knowledge: {
-            frontEnd: ['Typescript', 'React', 'React Native', 'Redux', 'Recoil', 'Vue', 'Prettier', 'ESLint', 'HTML', 'CSS'],
+            frontEnd: ['Typescript', 'React', 'React Native', 'Redux', 'Recoil', 'Vue', 'Prettier', 'ESLint', 'Next.js', 'Tailwind CSS'],
              backEnd: ['Apollo Client', 'Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
             database: ['GraphQL', 'PostgresQL', 'MS-SQL', 'MySQL', 'Oracle'],
               devOps: ['Jira', 'Confluence']

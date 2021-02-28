@@ -12,16 +12,14 @@ const julius = {
 
     knowledge: {
             frontEnd: [
-                        'Typescript', 
-                        'React', 
-                        'React Native', 
-                        'Redux', 
-                        'Recoil',
-                        'Next.js',
+                        'Javascript', 'Typescript', 
+                        'React', 'React Native', 'Next.js',
+                        'Redux', 'Recoil',
                         'Vue 2', 
                         'Prettier', 
                         'ESLint', 
-                        'Tailwind CSS'
+                        'Styled Component', 'Stitches',
+                        'Sass/Scss', 'Tailwind CSS'
                       ],
              backEnd: ['Apollo Client', 'Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
             database: ['GraphQL', 'PostgresQL', 'MS-SQL', 'MySQL', 'Oracle'],

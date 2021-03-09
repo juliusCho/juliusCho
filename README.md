@@ -21,7 +21,7 @@ const julius = {
                         'Styled Component', 'Chakra', 'Stitches',
                         'SASS/SCSS', 'Tailwind CSS'
                       ],
-             backEnd: ['GraphQL', 'MinIO', 'Spring', 'Java', 'Maven', 'MyBatis'],
+             backEnd: ['GraphQL', 'REST API', 'MinIO', 'Spring', 'Java', 'Maven', 'MyBatis'],
             database: ['RDB', 'SQL', 'NoSQL', 'Document DB'],
               devOps: ['Jira', 'Confluence']
     },

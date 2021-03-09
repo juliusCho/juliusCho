@@ -18,18 +18,18 @@ const julius = {
                         'Vue 2', 
                         'Prettier', 
                         'ESLint', 
-                        'Styled Component', 'Stitches',
-                        'Sass/Scss', 'Tailwind CSS'
+                        'Styled Component', 'Chakra', 'Stitches',
+                        'SASS/SCSS', 'Tailwind CSS'
                       ],
-             backEnd: ['Apollo Client', 'Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
-            database: ['GraphQL', 'PostgresQL', 'MS-SQL', 'MySQL', 'Oracle'],
+             backEnd: ['Apollo', 'Spring Boot', 'Spring Security', 'Java', 'Maven', 'MyBatis'],
+            database: ['GraphQL', 'SQL'],
               devOps: ['Jira', 'Confluence']
     },
     
     learning: {
             frontEnd: ['Jest', 'Enzyme'],
-             backEnd: ['Koa', 'Express', 'Apollo Server', 'QueryDSL'],
-              devOps: ['Docker', 'Jenkins']
+             backEnd: ['Koa', 'Express', 'Gradle', 'KeyClock'],
+              devOps: ['Docker']
     }
 };
 ```

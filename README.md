@@ -12,7 +12,7 @@ const julius = {
 
     knowledge: {
             frontEnd: [
-                        'Javascript', 'Typescript', 
+                        'Typescript', 'Javascript', 
                         'React', 'React Native', 'Next.js',
                         'Redux', 'Recoil',
                         'Vue 2', 
@@ -28,7 +28,7 @@ const julius = {
     
     learning: {
             frontEnd: ['Jest', 'Enzyme'],
-             backEnd: ['Koa', 'Express', 'Gradle', 'KeyClock'],
+             backEnd: ['Koa', 'Express', 'Gradle', 'KeyCloak'],
               devOps: ['Docker']
     }
 };

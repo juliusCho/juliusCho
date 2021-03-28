@@ -27,8 +27,8 @@ const julius = {
     },
     
     learning: {
-            frontEnd: ['Jest', 'Enzyme'],
-             backEnd: ['Koa', 'Express', 'Gradle', 'KeyCloak'],
+            frontEnd: ['Jest', 'react/testing-library'],
+             backEnd: ['Node.js', 'Koa', 'Gradle', 'KeyCloak'],
               devOps: ['Docker']
     }
 };

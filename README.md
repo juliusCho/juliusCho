@@ -13,23 +13,31 @@ const julius = {
     knowledge: {
             frontEnd: [
                         'Typescript', 'Javascript', 
+                        'Jest', '@testing-library',
                         'React', 'React Native', 'Next.js',
                         'Redux', 'Recoil',
-                        'Vue 2', 
-                        'Prettier', 
-                        'ESLint', 
-                        'Styled Component', 'Chakra', 'Stitches',
-                        'SASS/SCSS', 'Tailwind CSS'
+                        'Prettier', 'ESLint', 
+                        'SASS/SCSS', 'Tailwind CSS', 'Styled Component'
                       ],
-             backEnd: ['GraphQL', 'REST API', 'MinIO', 'Spring', 'Java', 'Maven', 'MyBatis'],
-            database: ['RDB', 'SQL', 'NoSQL', 'Document DB'],
-              devOps: ['Jira', 'Confluence']
+             backEnd: [
+                        'Node.js', 'Spring Boot',
+                        'Koa',
+                        'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'Native SQL',
+                        'MinIO'
+                      ],
+            database: [ 'RDB', 'NoSQL', 'Document DB' ],
+              devOps: [
+                        'Git', 'Bit', 
+                        'Gitlab CI', 
+                        'Docker', 
+                        'Bit.dev'
+                      ],
+                 etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq' ]
     },
     
     learning: {
-            frontEnd: ['Jest', '@testing-library'],
-             backEnd: ['Node.js', 'Koa', 'Gradle', 'KeyCloak'],
-              devOps: ['Docker']
+             backEnd: ['Express'],
+                 etc: ['Figma']
     }
 };
 ```

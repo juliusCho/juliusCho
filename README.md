@@ -17,7 +17,10 @@ const julius = {
                         'React', 'React Native', 'Next.js',
                         'Redux', 'Recoil',
                         'Prettier', 'ESLint', 
-                        'SASS/SCSS', 'Tailwind CSS', 'Styled Component'
+                        'SASS/SCSS', 'Tailwind CSS', 'Styled Component',
+                        'Bit.dev',
+                        'Verdaccio',
+                        'Storybook.js'
                       ],
              backEnd: [
                         'Node.js', 'Spring Boot',
@@ -29,13 +32,13 @@ const julius = {
               devOps: [
                         'Git', 'Bit', 
                         'Gitlab CI', 
-                        'Docker', 
-                        'Bit.dev'
+                        'Docker'
                       ],
                  etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq' ]
     },
     
     learning: {
+            language: ['Python'],
              backEnd: ['Express'],
                  etc: ['Figma']
     }

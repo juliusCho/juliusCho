@@ -10,7 +10,7 @@
 ```javascript
 const julius = {
 
-    knowledge: {
+    tools: {
             frontEnd: [
                         'Typescript', 'Javascript', 
                         'Jest', '@testing-library',
@@ -34,13 +34,7 @@ const julius = {
                         'Gitlab CI', 
                         'Docker'
                       ],
-                 etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq' ]
-    },
-    
-    learning: {
-            language: ['Python'],
-             backEnd: ['Express'],
-                 etc: ['Figma']
+                 etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq', 'Figma' ]
     }
 };
 ```

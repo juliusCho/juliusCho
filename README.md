@@ -23,7 +23,7 @@ const julius = {
      backEnd: [
                 'Node.js', 'Spring Boot',
                 'Koa',
-                'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'Native SQL',
+                'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'SQL',
                 'MinIO'
               ],
     database: [ 'RDB', 'NoSQL', 'Document DB' ],

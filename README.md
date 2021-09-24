@@ -9,34 +9,31 @@
 # ⚡ I'm a WEB DEVELOPER based in SEOUL / SOUTH KOREA
 ```javascript
 const julius = {
-
-    tools: {
-            frontEnd: [
-                        'Typescript', 'Javascript', 
-                        'Jest', '@testing-library',
-                        'React', 'React Native', 'Next.js',
-                        'Redux', 'Recoil',
-                        'Prettier', 'ESLint', 
-                        'SASS/SCSS', 'Tailwind CSS', 'Styled Component',
-                        'Bit.dev',
-                        'Verdaccio',
-                        'Storybook.js'
-                      ],
-             backEnd: [
-                        'Node.js', 'Spring Boot',
-                        'Koa',
-                        'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'Native SQL',
-                        'MinIO'
-                      ],
-            database: [ 'RDB', 'NoSQL', 'Document DB' ],
-              devOps: [
-                        'Git', 'Bit', 
-                        'Gitlab CI', 
-                        'Docker'
-                      ],
-                 etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq', 'Figma' ]
-    }
-};
+    frontEnd: [
+                'Typescript', 'Javascript', 
+                'Jest', '@testing-library',
+                'React', 'React Native', 'Next.js',
+                'Redux', 'Recoil',
+                'Prettier', 'ESLint', 
+                'SASS/SCSS', 'Tailwind CSS', 'Styled Component',
+                'Bit.dev',
+                'Verdaccio',
+                'Storybook.js'
+              ],
+     backEnd: [
+                'Node.js', 'Spring Boot',
+                'Koa',
+                'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'Native SQL',
+                'MinIO'
+              ],
+    database: [ 'RDB', 'NoSQL', 'Document DB' ],
+      devOps: [
+                'Git', 'Bit', 
+                'Gitlab CI', 
+                'Docker'
+              ],
+         etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq', 'Figma' ]
+}
 ```
 
 ### 📫 Feel free to contact me!

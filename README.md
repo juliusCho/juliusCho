@@ -10,27 +10,28 @@
 ```javascript
 const julius = {
     frontEnd: [
-                'Typescript', 'Javascript', 
-                'Jest', '@testing-library',
-                'React', 'React Native', 'Next.js',
+                'Typescript', 'Javascript', 'CSS3(SCSS)', 'HTML5',
+                'React', 'React Native', 'Next.js', 'Vue.js',
                 'Redux', 'Recoil',
+                'Tailwind CSS', 'Styled-Components',
+                'Jest', 'Testing-Library',
                 'Prettier', 'ESLint', 
-                'SASS/SCSS', 'Tailwind CSS', 'Styled Component',
-                'Bit.dev',
-                'Verdaccio',
-                'Storybook.js'
+                'Storybook.js', 'Bit.dev'
               ],
      backEnd: [
-                'Node.js', 'Spring Boot',
-                'Koa',
-                'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'SQL',
-                'MinIO'
+                'Java',
+                'Node.js', 'Koa', 'Spring Boot',
+                'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'Mybatis',
+                'Gradle', 'Maven'
               ],
-    database: [ 'RDB', 'NoSQL', 'Document DB' ],
+    database: [ 
+                'RDB', 'NoSQL', 'Document DB',
+                'MongoDB', 'PostgreSQL', 'MySQL', 'MariaDB', 'MS-SQL'
+              ],
       devOps: [
-                'Git', 'Bit', 
-                'Gitlab CI', 
-                'Docker'
+                'Git', 'Bit', 'Docker',
+                'GitLab', 'GitLab CI', 'Jenkins',
+                'Nginx', 'Verdaccio'
               ],
          etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq', 'Figma' ]
 }

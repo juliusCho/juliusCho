@@ -11,29 +11,31 @@
 const julius = {
     frontEnd: [
                 'Typescript', 'Javascript', 'CSS3(SCSS)', 'HTML5',
-                'React', 'React Native', 'Next.js', 'Vue.js',
+                'React', 'React Native', 'Next.js',
                 'Redux', 'Recoil',
+                'RxJS', 'RXFire',
                 'Tailwind CSS', 'Styled-Components',
                 'Jest', 'Testing-Library',
                 'Prettier', 'ESLint', 
-                'Storybook.js', 'Bit.dev'
+                'Storybook.js',
+                'NPM'
               ],
      backEnd: [
-                'Java',
                 'Node.js', 'Koa', 'Spring Boot',
-                'GraphQL', 'Prisma', 'JPA/Hibernate', 'QueryDSL', 'Mybatis',
-                'Gradle', 'Maven'
+                'GraphQL', 'Prisma', 'Mybatis',
+                'MinIO', 'Firebase-Hosting',
+                'Maven'
               ],
     database: [ 
-                'RDB', 'NoSQL', 'Document DB',
-                'MongoDB', 'PostgreSQL', 'MySQL', 'MariaDB', 'MS-SQL'
+                'MongoDB', 'PostgreSQL', 'MySQL', 'MariaDB', 'MS-SQL',
+                'Firebase-Realtime DB', 'Firebase-Firestore'
               ],
       devOps: [
                 'Git', 'Bit', 'Docker',
-                'GitLab', 'GitLab CI', 'Jenkins',
-                'Nginx', 'Verdaccio'
+                'Verdaccio',
+                'GitLab', 'GitLab CI',
               ],
-         etc: [ 'Google Firebase', 'OpenAPI', 'Notion', 'Balsamiq', 'Figma' ]
+         etc: [ 'OpenAPI', 'Notion', 'Balsamiq', 'Figma' ]
 }
 ```
 

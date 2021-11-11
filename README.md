@@ -23,8 +23,7 @@ const julius = {
      backEnd: [
                 'Node.js', 'Koa', 'Spring Boot',
                 'GraphQL', 'Prisma', 'Mybatis',
-                'MinIO', 'Firebase-Hosting',
-                'Maven'
+                'MinIO'
               ],
     database: [ 
                 'MongoDB', 'PostgreSQL', 'MySQL', 'MariaDB', 'MS-SQL',
@@ -32,6 +31,7 @@ const julius = {
               ],
       devOps: [
                 'Git', 'Bit', 'Docker',
+                'NPM', 'Maven'
                 'Verdaccio',
                 'GitLab', 'GitLab CI',
               ],

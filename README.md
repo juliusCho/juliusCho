@@ -17,8 +17,7 @@ const julius = {
                 'Tailwind CSS', 'Styled-Components',
                 'Jest', 'Testing-Library',
                 'Prettier', 'ESLint', 
-                'Storybook.js',
-                'NPM'
+                'Storybook.js'
               ],
      backEnd: [
                 'Node.js', 'Koa', 'Spring Boot',

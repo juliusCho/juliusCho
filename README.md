@@ -13,14 +13,14 @@ const julius = {
                 'Typescript', 'Javascript', 'CSS3(SCSS)', 'HTML5',
                 'React', 'React Native', 'Next.js',
                 'Redux', 'Recoil',
-                'RxJS', 'RXFire',
+                'RxJS', 'RxFire',
                 'Tailwind CSS', 'Styled-Components',
                 'Jest', 'Testing-Library',
                 'Prettier', 'ESLint', 
                 'Storybook.js'
               ],
      backEnd: [
-                'Node.js', 'Koa', 'Spring Boot',
+                'Node.js', 'Koa',
                 'GraphQL', 'Prisma', 'Mybatis',
                 'MinIO'
               ],
@@ -30,7 +30,7 @@ const julius = {
               ],
       devOps: [
                 'Git', 'Bit', 'Docker',
-                'NPM', 'Maven'
+                'NPM',
                 'Verdaccio',
                 'GitLab', 'GitLab CI',
               ],

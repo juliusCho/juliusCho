@@ -20,8 +20,8 @@ const julius = {
                 'Storybook.js'
               ],
      backEnd: [
-                'C#', 
-                '.NET', 'Node.js', 'Koa',
+                'C#', 'Node.js',
+                '.NET', 'Koa',
                 'GraphQL', 'Prisma', 'Mybatis',
                 'MinIO'
               ],

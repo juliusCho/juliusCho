@@ -42,9 +42,9 @@ const julius = {
 ### 📫 Feel free to contact me!
 
 [![](https://img.shields.io/badge/LinkedIn-Inhyo(Julius)-blue)](https://www.linkedin.com/in/julius88/)
-[![](https://img.shields.io/badge/Blog-JekyllBlog-purple)](https://juliuscho.github.io/)
 [![](https://img.shields.io/badge/Gmail-johncrist2000%40gmail.com-red)](mailto:johncrist2000@gmail.com)
 
+<!--[![](https://img.shields.io/badge/Blog-JekyllBlog-purple)](https://juliuscho.github.io/)-->
 <!--
 **juliusCho/juliusCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliusCho&show_icons=true)
 
-# ⚡ I'm a WEB DEVELOPER based in SEOUL / SOUTH KOREA
+# ⚡ I'm a WEB DEVELOPER based in Auckland / New Zealand
 ```javascript
 const julius = {
     frontEnd: [

@@ -11,7 +11,7 @@
 const julius = {
     frontEnd: [
                 'Typescript', 'Javascript', 'CSS3(SCSS)', 'HTML5',
-                'React', 'React Native', 'Next.js',
+                'React', 'React Native', 'Angular', 'Next.js',
                 'Redux', 'Recoil',
                 'RxJS', 'RxFire',
                 'Tailwind CSS', 'Styled-Components',
@@ -20,7 +20,8 @@ const julius = {
                 'Storybook.js'
               ],
      backEnd: [
-                'Node.js', 'Koa',
+                'C#', 
+                '.NET', 'Node.js', 'Koa',
                 'GraphQL', 'Prisma', 'Mybatis',
                 'MinIO'
               ],

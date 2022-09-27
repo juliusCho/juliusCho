@@ -21,7 +21,8 @@ const julius = {
               ],
      backEnd: [
                 'C#', 'Node.js',
-                '.NET', 'Koa',
+                '.NET', 'Koa', 
+                'NUnit',
                 'GraphQL', 'Prisma', 'Mybatis',
                 'MinIO'
               ],
@@ -35,7 +36,10 @@ const julius = {
                 'Verdaccio',
                 'GitLab', 'GitLab CI',
               ],
-         etc: [ 'OpenAPI', 'Notion', 'Balsamiq', 'Figma' ]
+         etc: [ 
+                'OpenAPI', 'Notion', 'Balsamiq', 'Figma', 'Postman',
+                'Jira', 'Confluence', 'Slack'
+              ]
 }
 ```
 

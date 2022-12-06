@@ -14,7 +14,7 @@ const julius = {
                 'React', 'React Native', 'Angular', 'Next.js',
                 'Redux', 'Recoil',
                 'RxJS', 'RxFire',
-                'Tailwind CSS', 'Styled-Components',
+                'SASS', 'Tailwind CSS', 'Styled-Components',
                 'Jest', 'Testing-Library',
                 'Prettier', 'ESLint', 
                 'Storybook.js'
@@ -22,7 +22,7 @@ const julius = {
      backEnd: [
                 'C#', 'Node.js',
                 '.NET', 'Koa', 
-                'NUnit',
+                'NUnit', 'XUnit',
                 'GraphQL', 'Prisma', 'Mybatis',
                 'MinIO'
               ],
@@ -32,8 +32,9 @@ const julius = {
               ],
       devOps: [
                 'Git', 'Bit', 'Docker',
-                'NPM',
+                'NPM', 'NuGet',
                 'Verdaccio',
+                'Splunk', 'NewRelic',
                 'GitLab', 'GitLab CI',
               ],
          etc: [ 

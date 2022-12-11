@@ -7,7 +7,7 @@
 const julius = {
     frontEnd: [
                 'Typescript', 'Javascript', 'CSS3(SCSS)', 'HTML5',
-                'React', 'React Native', 'Angular', 'Next.js',
+                'Angular', 'React', 'React Native', 'Next.js',
                 'Redux', 'Recoil',
                 'RxJS', 'RxFire',
                 'SASS', 'Tailwind CSS', 'Styled-Components',
@@ -19,19 +19,18 @@ const julius = {
                 'C#', 'Node.js',
                 '.NET', 'Koa', 
                 'NUnit', 'XUnit',
-                'GraphQL', 'Prisma', 'Mybatis',
-                'MinIO'
+                'Microsoft.EntityFramework', 'GraphQL', 'Prisma', 'Mybatis'
               ],
     database: [ 
-                'MongoDB', 'PostgreSQL', 'MySQL', 'MariaDB', 'MS-SQL',
-                'Firebase-Realtime DB', 'Firebase-Firestore'
+                'MS-SQL', 'PostgreSQL', 'MySQL', 'MariaDB', 
+                'Firebase-Realtime DB', 'Firebase-Firestore',
+                'MinIO'
               ],
       devOps: [
-                'Git', 'Bit', 'Docker',
+                'Git', 'Bit',
                 'NPM', 'NuGet',
-                'Verdaccio',
                 'Splunk', 'NewRelic',
-                'GitLab', 'GitLab CI',
+                'GitLab'
               ],
          etc: [ 
                 'OpenAPI', 'Notion', 'Balsamiq', 'Figma', 'Postman',

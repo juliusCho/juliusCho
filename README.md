@@ -19,7 +19,7 @@ const julius = {
                 'C#', 'Node.js',
                 '.NET', 'Koa', 
                 'NUnit', 'XUnit',
-                'Microsoft.EntityFramework', 'GraphQL', 'Prisma', 'Mybatis'
+                'Microsoft.EntityFramework', 'GraphQL', 'Prisma'
               ],
     database: [ 
                 'MS-SQL', 'PostgreSQL', 'MySQL', 'MariaDB', 

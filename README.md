@@ -6,12 +6,12 @@
 ```javascript
 const julius = {
     frontEnd: [
-                'Typescript', 'Javascript', 'CSS3(SCSS)', 'HTML5',
+                'Typescript', 'Javascript', 'CSS', 'HTML',
                 'Angular', 'React', 'React Native', 'Next.js',
                 'Redux', 'Recoil',
                 'RxJS', 'RxFire',
                 'SASS', 'Tailwind CSS', 'Styled-Components',
-                'Jest', 'Testing-Library',
+                'Karma', 'Jasmine', 'Jest', 'Testing-Library',
                 'Prettier', 'ESLint', 
                 'Storybook.js'
               ],

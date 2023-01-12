@@ -1,7 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjuliusCho)](https://hits.seeyoufarm.com)
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliusCho&show_icons=true)
-
 # ⚡ I'm a WEB DEVELOPER based in Auckland / New Zealand
 ```javascript
 const julius = {
@@ -39,7 +35,7 @@ const julius = {
 }
 ```
 
-### 📫 Feel free to contact me
+### 📫 Contact
 
 [![](https://img.shields.io/badge/LinkedIn-Inhyo(Julius)-blue)](https://www.linkedin.com/in/julius88/)
 [![](https://img.shields.io/badge/Gmail-johncrist2000%40gmail.com-red)](mailto:johncrist2000@gmail.com)

@@ -1,4 +1,4 @@
-# ⚡ I'm a WEB DEVELOPER based in Auckland / New Zealand
+# Fullstck Web Developer in Auckland / New Zealand
 ```javascript
 const julius = {
     frontEnd: [

@@ -12,7 +12,7 @@ const julius = {
                 'Storybook.js'
               ],
      backEnd: [
-                'C#', 'Node.js',
+                'C#', 'Node.js', 'Go',
                 '.NET', 'Koa', 
                 'NUnit', 'XUnit',
                 'Microsoft.EntityFramework', 'GraphQL', 'Prisma'
@@ -26,11 +26,14 @@ const julius = {
                 'Git', 'Bit',
                 'NPM', 'NuGet',
                 'Splunk', 'NewRelic',
-                'GitLab'
+                'GitLab',
+                'Google Cloud',
+                'AWS'
               ],
          etc: [ 
                 'OpenAPI', 'Notion', 'Balsamiq', 'Figma', 'Postman',
-                'Jira', 'Confluence', 'Slack'
+                'Jira', 'Confluence', 'Slack', 'Trello',
+                'Parabol', 'Lucidspark', 'Mermaid'
               ]
 }
 ```
